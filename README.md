@@ -11,4 +11,4 @@ Microbit是一個教育性質為主的開發版，上面有各式各樣的感測
 
 [這篇文章](https://oranwind.org/-bbc-microbit-qi-shou-shi-arduino-ji-chu-jiao-xue/)詳細的說明arduino開發所需要的一切起手式  
 如果你想要對arduino的加速度功能有更深入的探討可以參考[這篇文章](https://sites.google.com/site/wenyumaker2/02micro-bit-yan-jiu/23-micro-bit-with-arduino)  
-你可以用一般電子材料行都能找得到的電池盒作為電源供應(EX:2節7號電池)，如果你想要穩定及輕量化可以考慮購買[BBC micro:bit -MI: power board 擴充板](http://ipoemaker.com/0110102)
+你可以用一般電子材料行都能找得到的電池盒作為電源供應(EX:2節7號電池、鈕扣電池盒)，如果你想要穩定及輕量化可以考慮購買[BBC micro:bit -MI: power board 擴充板](http://ipoemaker.com/0110102)
