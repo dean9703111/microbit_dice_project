@@ -19,7 +19,7 @@
 
 MMA8653 accel;
 
-char auth[] = "C5t19LDXjSbXpGvH1DzVHxkyJvVNqOYL";//放自己Blynk App的token
+char auth[] = "放自己Blynk App的token";
 
 // Create ble serial instance, parameters are ignored for MicroBit
 BLESerial SerialBLE(0, 0, 0);
